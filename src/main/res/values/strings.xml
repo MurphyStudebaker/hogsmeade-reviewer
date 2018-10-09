@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestaurantRec</string>
+    <string-array name="categories_array">
+        <item>Dessert Shop</item>
+        <item>Pub</item>
+        <item>Cafe</item>
+    </string-array>
+</resources>

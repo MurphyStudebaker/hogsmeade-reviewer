@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Butterbeer" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent_material_light_1</item>
+        <item name="android:colorForeground">@color/foreground_material_light</item>
+        <item name="android:navigationBarColor">@color/cardview_dark_background</item>
+        <item name="android:statusBarColor">@color/cardview_dark_background</item>
+    </style>
+</resources>

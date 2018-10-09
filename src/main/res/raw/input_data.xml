@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+    <restaurant name="Hog's Head"
+        img="hogs_head"
+        category="Pub"
+        phone="461-525-6789"
+        web="hoggyhoggyhogshead.com"
+        rating="3.5"/>
+    <restaurant name="Honeydukes"
+          img="honeydukes"
+          category="Dessert Shop"
+          phone="713-687-6713"
+          web="honeydukesweets.com"
+        rating="5"/>
+    <restaurant name="The Three Broomsticks"
+        img="broomsticks"
+        category="Pub"
+        phone="777-424-5689"
+        web="threebroomsticks.com"
+        rating="4"/>
+    <restaurant name="Madame Puddifoot's"
+        img="madame"
+        category="Cafe"
+        phone="222-345-6987"
+        web="qualiteamagic.com"
+        rating="4"/>
+    <restaurant name="Florean Fortescue's"
+        img="florean"
+        category="Dessert Shop"
+        phone="876-909-0055"
+        web="floreanflavours.com"
+        rating="3.5"/>
+</feed>
